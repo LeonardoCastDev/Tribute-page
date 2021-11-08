@@ -191,6 +191,10 @@
   #main {
     overflow: hidden;
   }
+  
+  #title-div {
+    text-align: center;
+  }
 
   .tribute-info {
     width: 100%;
