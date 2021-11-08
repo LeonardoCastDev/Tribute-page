@@ -201,7 +201,7 @@
     height: auto;
     background-color: var(--brownish-color, #231f20);
     color: var(--yellowish-white, #efe6dd);
-    padding: 15px 30px;
+    padding: 10px 30px;
     font-size: 1rem;
     line-height: 1.2rem;
     text-align: justify;
