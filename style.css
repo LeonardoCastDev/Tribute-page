@@ -196,7 +196,7 @@
     text-align: center;
   }
 
-   .tribute-info {
+  .tribute-info {
     width: 100%;
     height: auto;
     background-color: var(--brownish-color, #231f20);
