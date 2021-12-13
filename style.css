@@ -127,7 +127,7 @@
 }
 
 #large-section {
-  background-image: url("https://lacarnemagazine.com/wp-content/uploads/2018/02/Django-Reinhardtweb.jpg");
+  background-image: url("./imgs/Django-Reinhardtweb.jpg");
   background-size: cover;
   background-position: center;
   width: 100vw;
@@ -191,7 +191,7 @@
   #main {
     overflow: hidden;
   }
-  
+
   #title-div {
     text-align: center;
   }
